@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<item>
+    <layer-list>
+        <item>
+            <shape android:shape="rectangle">
+
+                <stroke android:width="2dp" android:color="@color/black" />
+                <solid android:color="@color/green_200"/>
+                <corners android:radius="3dp"/>
+                <padding android:right="10dp"/>
+            </shape>
+        </item>
+        <item>
+            <bitmap android:src="@drawable/ic_spinner_arrow" android:gravity="center|end"/>
+        </item>
+    </layer-list>
+</item>
+</selector>

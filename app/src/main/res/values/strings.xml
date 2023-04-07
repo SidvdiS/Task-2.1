@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Unit Convertor</string>
+    <string-array name="unit_options">
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Temperature</item>
+    </string-array>
+    <string-array name="length">
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Mile</item>
+        <item>Cm</item>
+        <item>Km</item>
+    </string-array>
+    <string-array name="weight">
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Ton</item>
+        <item>G</item>
+        <item>Kg</item>
+    </string-array>
+    <string-array name="temp">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+
+</resources>
